@@ -6,6 +6,7 @@ const nextConfig = {
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
+  outputFileTracingRoot: __dirname,
 }
 
 module.exports = nextConfig
