@@ -162,5 +162,5 @@ This project is proprietary to Befogfang Company.
 ## 🆘 Support
 
 For deployment or customization questions:
-- Email: hello@befogfang.com
-- Phone: +1 (555) 0123
+- Email: updated soon
+- Phone: us
