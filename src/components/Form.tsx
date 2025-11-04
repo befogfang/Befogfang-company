@@ -227,3 +227,6 @@ export default function Form({
     </div>
   )
 }
+
+// Also export as named import for compatibility
+export { Form }
